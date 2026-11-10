@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+# 配布用フォルダとバックアップ（exe・DLLなど大きなファイル）
+PDF_AI_Q&A配布/
+配布_旧版バックアップ/
+# PyInstallerの作業フォルダ
+edge-tts-build/build/
+edge-tts-build/dist/
